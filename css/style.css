@@ -1,0 +1,15 @@
+html{
+
+    height: auto;
+}
+header,footer{
+    display: flex;
+    background-color: lightgreen;
+}
+
+.logo{
+    display: block;
+    width: 200px;
+    height: 200px;
+    flex: 0 0 250px;
+}
